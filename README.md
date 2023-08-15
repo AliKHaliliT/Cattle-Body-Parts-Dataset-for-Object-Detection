@@ -1,4 +1,4 @@
-# Cattle Body Parts Image Dataset for Object Detection Dataset
+# Cattle Body Parts Image Dataset for Object Detection
 
 ## Intro
 This dataset is a curated collection of images featuring various cattle body parts aimed at facilitating object detection tasks. The dataset contains a total of 428 high-quality photos, meticulously annotated with three distinct classes: "Back," "Head," and "Leg."
