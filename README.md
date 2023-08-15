@@ -3,6 +3,14 @@
 ## Intro
 This dataset is a curated collection of images featuring various cattle body parts aimed at facilitating object detection tasks. The dataset contains a total of 428 high-quality photos, meticulously annotated with three distinct classes: "Back," "Head," and "Leg."
 
+The dataset creation involved the following steps:
+
+- **Initial Data:** Images were collected and annotated to create a base dataset for training.
+- **Model Training:** A [YOLOv7](https://github.com/WongKinYiu/yolov7) model was trained to recognize target objects in the annotated images.
+- **Data Acquisition Script:** An automated script fetched videos from the internet.
+- **Conversion and Filtering:** Videos were turned into frames; similar frames were filtered out using Cosine Similarity.
+- **Object Detection:** The trained model identified objects in the new images.
+- **Quality Check:** A comprehensive review ensured dataset accuracy and consistency.
 
 ## Motivation
 Accurate and reliable identification of different cattle body parts is crucial for various agricultural and veterinary applications. This dataset aims to provide a valuable resource for researchers, developers, and enthusiasts working on object detection tasks involving cattle, ultimately contributing to advancements in livestock management, health monitoring, and related fields.
@@ -31,3 +39,6 @@ Each annotation file corresponds to an image in the dataset and is formatted as 
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## Contact
+For any questions, concerns, or collaboration opportunities, please don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/ali-khalili-790b10146/) account.
