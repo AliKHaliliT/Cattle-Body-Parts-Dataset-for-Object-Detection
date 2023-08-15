@@ -30,6 +30,12 @@ Accurate and reliable identification of different cattle body parts is crucial f
 - Classes: Back, Head, Leg
 - Annotations: Bounding boxes for each class
 
+Below is an example image from the dataset.
+
+<div align="center">
+  <img src="readme_assets/sample.png"/>
+</div>
+
 ### Contents
 ```
 📦 Cattle_Body_Parts_OD.zip
