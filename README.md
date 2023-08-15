@@ -3,6 +3,15 @@
 ## Intro
 This dataset is a curated collection of images featuring various cattle body parts aimed at facilitating object detection tasks. The dataset contains a total of 428 high-quality photos, meticulously annotated with three distinct classes: "Back," "Head," and "Leg."
 
+The dataset can be downloaded using [this link](https://www.kaggle.com/datasets/alikhalilit98/cattle-body-parts-dataset-for-object-detection). The dataset is also available at Roboflow Universe. 
+
+<p align="center">
+    <a href="https://universe.roboflow.com/ali-khalili/cattle-body-parts-dataset-for-object-detection">
+        <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+    </a>
+</p>
+
+### Acquisition
 The dataset creation involved the following steps:
 
 - **Initial Data:** Images were collected and annotated to create a base dataset for training.
