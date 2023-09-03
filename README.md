@@ -58,7 +58,7 @@ Each annotation file corresponds to an image in the dataset and is formatted as 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Disclaimer
-This dataset has been collected from publicly available sources and is intended for research purposes only. I do not claim ownership of the data and have no intention of infringing on any copyright. The material contained in this dataset is copyrighted to their respective owners. I have made every effort to ensure the data is accurate and complete, but I cannot guarantee its accuracy or completeness. If you believe that any of the data in this dataset infringes on your copyright, please contact me immediately so I can take appropriate action.
+This dataset has been collected from publicly available sources. I do not claim ownership of the data and have no intention of infringing on any copyright. The material contained in this dataset is copyrighted to their respective owners. I have made every effort to ensure the data is accurate and complete, but I cannot guarantee its accuracy or completeness. If you believe any data in this dataset infringes on your copyright, please get in touch with me immediately so I can take appropriate action.
 
 ## Contact
 For any questions, concerns, or collaboration opportunities, please don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/ali-khalili-790b10146/) account.
