@@ -5,7 +5,7 @@ This dataset is a curated collection of images featuring various cattle body par
 
 The dataset can be downloaded using [this link](https://www.kaggle.com/datasets/alikhalilit98/cattle-body-parts-dataset-for-object-detection). The dataset is also available at Roboflow Universe. 
 
-A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](trained_model_weights/).
+A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](https://github.com/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection/releases/download/repowithtrainedweightsv1.0.0/yolov7_cattle_parts_final.pt).
 
 <p align="center">
     <a href="https://universe.roboflow.com/ali-khalili/cattle-body-parts-dataset-for-object-detection">
