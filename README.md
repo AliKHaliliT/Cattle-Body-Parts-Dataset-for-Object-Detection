@@ -61,4 +61,4 @@ Each annotation file corresponds to an image in the dataset and is formatted as 
 This dataset has been collected from publicly available sources. I do not claim ownership of the data and have no intention of infringing on any copyright. The material contained in this dataset is copyrighted to their respective owners. I have made every effort to ensure the data is accurate and complete, but I cannot guarantee its accuracy or completeness. If you believe any data in this dataset infringes on your copyright, please get in touch with me immediately so I can take appropriate action.
 
 ## Contact
-For any questions, concerns, or collaborations, please don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/ali-khalili-790b10146/) account.
+For any questions, concerns, or collaborations, please don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/ali-khalili-790b10146/).
