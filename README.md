@@ -13,6 +13,7 @@ A YOLOv7X model has been trained using the dataset, and you can access the train
     </a>
 </p>
 
+<!--
 ### Acquisition
 The dataset creation involved the following steps:
 
@@ -22,6 +23,7 @@ The dataset creation involved the following steps:
 - **Conversion and Filtering:** Videos were turned into frames; similar frames were filtered out using Cosine Similarity.
 - **Object Detection:** The trained model identified objects in the new images.
 - **Quality Check:** A comprehensive review ensured dataset accuracy and consistency.
+-->
 
 ## Motivation
 Accurate and reliable identification of different cattle body parts is crucial for various agricultural and veterinary applications. This dataset aims to provide a valuable resource for researchers, developers, and enthusiasts working on object detection tasks involving cattle, ultimately contributing to advancements in livestock management, health monitoring, and related fields.
