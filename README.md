@@ -5,13 +5,13 @@ This dataset is a curated collection of images featuring various cattle body par
 
 The dataset can be downloaded using [this link](https://www.kaggle.com/datasets/alikhalilit98/cattle-body-parts-dataset-for-object-detection). The dataset is also available at Roboflow Universe. 
 
-A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](https://github.com/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection/releases/download/repowithtrainedweightsv1.0.0/yolov7_cattle_parts_final.pt).
-
 <p align="center">
     <a href="https://universe.roboflow.com/ali-khalili/cattle-body-parts-dataset-for-object-detection">
         <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
     </a>
 </p>
+
+A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](https://github.com/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection/releases/download/repowithtrainedweightsv1.0.0/yolov7_cattle_parts_final.pt).
 
 <!--
 ### Acquisition
@@ -63,4 +63,4 @@ Each annotation file corresponds to an image in the dataset and is formatted as 
 This dataset has been collected from publicly available sources. I do not claim ownership of the data and have no intention of infringing on any copyright. The material contained in this dataset is copyrighted to their respective owners. I have made every effort to ensure the data is accurate and complete, but I cannot guarantee its accuracy or completeness. If you believe any data in this dataset infringes on your copyright, please get in touch with me immediately so I can take appropriate action.
 
 ## Contact
-For any questions, concerns, or collaboration opportunities, please don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/ali-khalili-790b10146/) account.
+For any questions, concerns, or collaborations, please don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/ali-khalili-790b10146/).
