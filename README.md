@@ -11,7 +11,7 @@ The dataset can be downloaded using [this link](https://www.kaggle.com/datasets/
     </a>
 </p>
 
-A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](https://github.com/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection/releases/download/repowithtrainedweightsv1.0.0/yolov7_cattle_parts_final.pt).
+A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](https://huggingface.co/alikhalilit98/Cattle-Body-Parts-Dataset-for-Object-Detection/blob/main/yolov7_cattle_parts_final.pt).
 
 <!--
 ### Acquisition
