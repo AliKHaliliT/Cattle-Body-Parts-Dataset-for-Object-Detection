@@ -11,7 +11,7 @@ The dataset can be downloaded using [this link](https://www.kaggle.com/datasets/
     </a>
 </p>
 
-A YOLOv7X model has been trained using the dataset, and you can access the trained weights through [this link](https://huggingface.co/alikhalilit98/Cattle-Body-Parts-Dataset-for-Object-Detection/blob/main/yolov7_cattle_parts_final.pt).
+A YOLOv7X model has been trained using the dataset and achieved a mAP of 99.6%. You can access the trained weights through [this link](https://huggingface.co/alikhalilit98/Cattle-Body-Parts-Dataset-for-Object-Detection/blob/main/yolov7_cattle_parts_final.pt).
 
 <!--
 ### Acquisition
@@ -37,7 +37,7 @@ Accurate and reliable identification of different cattle body parts is crucial f
 Below is an example image from the dataset.
 
 <div align="center">
-  <img src="readme_assets/sample.png"/>
+  <img src="util_resources/readme/sample.png"/>
 </div>
 
 ### Contents
