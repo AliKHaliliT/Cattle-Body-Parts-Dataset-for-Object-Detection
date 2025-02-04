@@ -3,8 +3,6 @@
     <img src="https://img.shields.io/github/license/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection" alt="License">
     <img src="https://img.shields.io/github/last-commit/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection" alt="Last Commit">
     <img src="https://img.shields.io/github/issues/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection" alt="Open Issues">
-    <img src="https://img.shields.io/github/stars/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection" alt="Stars">
-    <img src="https://img.shields.io/github/forks/AliKHaliliT/Cattle-Body-Parts-Dataset-for-Object-Detection" alt="Forks">
 </div>
 <br/>
 This dataset is a curated collection of images featuring various cattle body parts aimed at facilitating object detection tasks. The dataset contains a total of 428 high-quality photos, meticulously annotated with three distinct classes: "Back," "Head," and "Leg."
